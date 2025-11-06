@@ -41,7 +41,7 @@ export default function Home() {
       setSimulationImages(result.data);
       toast({
         title: 'Success!',
-        description: 'Flow generated from your API.',
+        description: 'Flow generated successfully.',
       });
     }
     setIsGenerating(false);
