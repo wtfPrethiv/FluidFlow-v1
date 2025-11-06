@@ -572,6 +572,6 @@ Example Workflow:
 > **This project here is a part of my sophomore minor project**.
 > 
 > 	This projects a spinoff of a nonexistent project's idea that i had in my head for a veryy long time, i was originally supposed to implement this using GAN and actually simulate fluid flow, as days passed by i totally forgot abt this minor projects existence and due to time constraints this didn't turn out the way i wanted it to be, i had to change the whole projects architecture while keeping the core idea intact and yea thats it ig 
-> 	also shout out to my teammates/Collaborators (mfs made me continue my work at 3 am💀🥀✌️)  , cant believe we pulled this off 
+> 	also shout out to my teammates/Collaborators (mfs made me continue my work at 3 am💀🥀✌️)  , cant believe ~~we~~ i pulled this off 
 > 	 and yess, 
 > starrrrrrrr thisss shitttttttttttttt upppppppppppppppppp !@@!!!!!!!!!@!!!!!!!!!!!!!!!!!!!!!!
