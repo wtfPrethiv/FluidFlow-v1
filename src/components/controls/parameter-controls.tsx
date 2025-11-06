@@ -122,7 +122,7 @@ export function ParameterControls({ parameters, setParameters, handleGenerate }:
                         <Slider
                         id="viscosity"
                         min={0.00001}
-                        max={0.001}
+                        max={0.0001}
                         step={0.00001}
                         value={[parameters.kinematicViscosity]}
                         onValueChange={(value) =>
